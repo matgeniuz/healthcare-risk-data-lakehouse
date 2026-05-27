@@ -1,0 +1,1026 @@
+provider_id,provider_name,specialty,city,state
+P00001,Garcia Medical Group,Endocrinology,Shreveport,LA
+P00002,Davis Medical Group,Primary Care,Lake Charles,la
+P00003,Davis Medical Group,Primary Care,Lake Charles,la
+P00004,Rodriguez Medical Group,Endocrinology,Shreveport,LA
+P00005,Smith Medical Group,Primary Care,Shreveport,la
+P00006,Rodriguez Medical Group,Family Medicine,New Orleans,la
+P00007,Davis Medical Group,Primary Care,Lafayette,LA
+P00008,Williams Medical Group,Family Medicine,New Orleans,Louisiana
+P00009,Johnson Medical Group,Family Medicine,Lake Charles,Louisiana
+P00010,Miller Medical Group,Endocrinology,New Orleans,Louisiana
+P00011,Johnson Medical Group,Endocrinology,Baton Rouge,LA
+P00012,Jones Medical Group,Family Medicine,Lafayette,la
+P00013,Williams Medical Group,Cardiology,Shreveport,Louisiana
+P00014,Johnson Medical Group,Family Medicine,New Orleans,LA
+P00015,Lopez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00016,Brown Medical Group,Primary Care,New Orleans,Louisiana
+P00017,Gonzalez Medical Group,Primary Care,Lake Charles,la
+P00018,Lopez Medical Group,Nephrology,Lafayette,la
+P00019,Smith Medical Group,Cardiology,Shreveport,la
+P00020,Johnson Medical Group,Primary Care,Baton Rouge,LA
+P00021,Miller Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00022,Garcia Medical Group,Family Medicine,Lake Charles,LA
+P00023,Gonzalez Medical Group,Nephrology,Baton Rouge,Louisiana
+P00024,Martinez Medical Group,Endocrinology,Lafayette,Louisiana
+P00025,Lopez Medical Group,Internal Medicine,Shreveport,la
+P00026,Brown Medical Group,Nephrology,Shreveport,LA
+P00027,Jones Medical Group,Cardiology,Baton Rouge,Louisiana
+P00028,Johnson Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00029,Davis Medical Group,Internal Medicine,New Orleans,LA
+P00030,Brown Medical Group,Emergency Medicine,Shreveport,la
+P00031,Gonzalez Medical Group,Family Medicine,Lafayette,la
+P00032,Hernandez Medical Group,Primary Care,Lafayette,la
+P00033,Johnson Medical Group,Cardiology,Lafayette,Louisiana
+P00034,Hernandez Medical Group,Emergency Medicine,Shreveport,LA
+P00035,Rodriguez Medical Group,Internal Medicine,Baton Rouge,LA
+P00036,Jones Medical Group,Primary Care,New Orleans,Louisiana
+P00037,Williams Medical Group,Primary Care,Lafayette,LA
+P00038,Gonzalez Medical Group,Family Medicine,Lake Charles,LA
+P00039,Gonzalez Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00040,Davis Medical Group,Endocrinology,Baton Rouge,LA
+P00041,Hernandez Medical Group,Nephrology,Baton Rouge,LA
+P00042,Hernandez Medical Group,Endocrinology,Lake Charles,Louisiana
+P00043,Davis Medical Group,Internal Medicine,New Orleans,la
+P00044,Brown Medical Group,Nephrology,Shreveport,la
+P00045,Miller Medical Group,Family Medicine,New Orleans,Louisiana
+P00046,Johnson Medical Group,Primary Care,Lake Charles,Louisiana
+P00047,Jones Medical Group,Cardiology,Lafayette,LA
+P00048,Davis Medical Group,Endocrinology,New Orleans,Louisiana
+P00049,Jones Medical Group,Family Medicine,Baton Rouge,LA
+P00050,Davis Medical Group,Nephrology,New Orleans,Louisiana
+P00051,Jones Medical Group,Family Medicine,Baton Rouge,LA
+P00052,Brown Medical Group,Primary Care,Lake Charles,Louisiana
+P00053,Jones Medical Group,Family Medicine,New Orleans,la
+P00054,Williams Medical Group,Family Medicine,Lafayette,la
+P00055,Garcia Medical Group,Cardiology,Lake Charles,Louisiana
+P00056,Jones Medical Group,Emergency Medicine,Lafayette,LA
+P00057,Rodriguez Medical Group,Cardiology,Baton Rouge,la
+P00058,Johnson Medical Group,Endocrinology,Shreveport,Louisiana
+P00059,Brown Medical Group,Endocrinology,New Orleans,la
+P00060,Rodriguez Medical Group,Emergency Medicine,Shreveport,LA
+P00061,Brown Medical Group,Endocrinology,Lafayette,Louisiana
+P00062,Brown Medical Group,Primary Care,New Orleans,la
+P00063,Johnson Medical Group,Emergency Medicine,Lafayette,LA
+P00064,Johnson Medical Group,Primary Care,Lafayette,la
+P00065,Williams Medical Group,Endocrinology,Shreveport,la
+P00066,Lopez Medical Group,Family Medicine,Lake Charles,LA
+P00067,Rodriguez Medical Group,Endocrinology,Baton Rouge,LA
+P00068,Lopez Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00069,Hernandez Medical Group,Endocrinology,Lafayette,LA
+P00070,Johnson Medical Group,Primary Care,Baton Rouge,Louisiana
+P00071,Martinez Medical Group,Primary Care,Lake Charles,Louisiana
+P00072,Brown Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00073,Davis Medical Group,Internal Medicine,Lake Charles,LA
+P00074,Brown Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00075,Hernandez Medical Group,Emergency Medicine,Baton Rouge,LA
+P00076,Rodriguez Medical Group,Emergency Medicine,Lake Charles,LA
+P00077,Hernandez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00078,Gonzalez Medical Group,Nephrology,Baton Rouge,LA
+P00079,Smith Medical Group,Emergency Medicine,Lake Charles,LA
+P00080,Rodriguez Medical Group,Internal Medicine,Shreveport,Louisiana
+P00081,Hernandez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00082,Johnson Medical Group,Internal Medicine,Baton Rouge,la
+P00083,Brown Medical Group,Endocrinology,New Orleans,Louisiana
+P00084,Gonzalez Medical Group,Internal Medicine,Shreveport,LA
+P00085,Rodriguez Medical Group,Endocrinology,New Orleans,Louisiana
+P00086,Lopez Medical Group,Internal Medicine,Baton Rouge,la
+P00087,Rodriguez Medical Group,Internal Medicine,Shreveport,la
+P00088,Hernandez Medical Group,Emergency Medicine,Lake Charles,la
+P00089,Rodriguez Medical Group,Primary Care,Shreveport,la
+P00090,Rodriguez Medical Group,Nephrology,Lake Charles,LA
+P00091,Williams Medical Group,Cardiology,New Orleans,la
+P00092,Jones Medical Group,Cardiology,Lafayette,LA
+P00093,Hernandez Medical Group,Cardiology,Lake Charles,Louisiana
+P00094,Lopez Medical Group,Family Medicine,Shreveport,la
+P00095,Rodriguez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00096,Lopez Medical Group,Emergency Medicine,Lake Charles,LA
+P00097,Hernandez Medical Group,Emergency Medicine,Shreveport,LA
+P00098,Williams Medical Group,Internal Medicine,Baton Rouge,la
+P00099,Garcia Medical Group,Cardiology,Lafayette,LA
+P00100,Hernandez Medical Group,Cardiology,Lake Charles,Louisiana
+P00101,Rodriguez Medical Group,Primary Care,Baton Rouge,la
+P00102,Davis Medical Group,Nephrology,Lake Charles,Louisiana
+P00103,Rodriguez Medical Group,Emergency Medicine,Lafayette,la
+P00104,Brown Medical Group,Family Medicine,Lake Charles,LA
+P00105,Garcia Medical Group,Internal Medicine,Shreveport,la
+P00106,Gonzalez Medical Group,Internal Medicine,Shreveport,la
+P00107,Hernandez Medical Group,Internal Medicine,Baton Rouge,la
+P00108,Smith Medical Group,Emergency Medicine,Lafayette,la
+P00109,Rodriguez Medical Group,Emergency Medicine,New Orleans,la
+P00110,Jones Medical Group,Cardiology,Lafayette,la
+P00111,Davis Medical Group,Internal Medicine,Lafayette,Louisiana
+P00112,Gonzalez Medical Group,Endocrinology,Shreveport,LA
+P00113,Brown Medical Group,Cardiology,New Orleans,Louisiana
+P00114,Davis Medical Group,Primary Care,Lake Charles,Louisiana
+P00115,Johnson Medical Group,Primary Care,Shreveport,la
+P00116,Martinez Medical Group,Nephrology,Shreveport,LA
+P00117,Lopez Medical Group,Cardiology,New Orleans,Louisiana
+P00118,Miller Medical Group,Nephrology,New Orleans,Louisiana
+P00119,Hernandez Medical Group,Cardiology,Lake Charles,LA
+P00120,Rodriguez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00121,Garcia Medical Group,Nephrology,Baton Rouge,LA
+P00122,Davis Medical Group,Primary Care,Shreveport,LA
+P00123,Johnson Medical Group,Cardiology,Baton Rouge,LA
+P00124,Williams Medical Group,Family Medicine,Lafayette,Louisiana
+P00125,Garcia Medical Group,Emergency Medicine,Lake Charles,la
+P00126,Smith Medical Group,Nephrology,New Orleans,Louisiana
+P00127,Garcia Medical Group,Emergency Medicine,New Orleans,LA
+P00128,Williams Medical Group,Emergency Medicine,Lake Charles,la
+P00129,Smith Medical Group,Internal Medicine,New Orleans,la
+P00130,Brown Medical Group,Nephrology,Baton Rouge,Louisiana
+P00131,Jones Medical Group,Internal Medicine,Lake Charles,la
+P00132,Rodriguez Medical Group,Family Medicine,Shreveport,Louisiana
+P00133,Gonzalez Medical Group,Primary Care,Lake Charles,LA
+P00134,Davis Medical Group,Cardiology,New Orleans,la
+P00135,Lopez Medical Group,Cardiology,Shreveport,la
+P00136,Rodriguez Medical Group,Endocrinology,Shreveport,Louisiana
+P00137,Brown Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00138,Lopez Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00139,Smith Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00140,Davis Medical Group,Endocrinology,Baton Rouge,LA
+P00141,Miller Medical Group,Cardiology,Lake Charles,Louisiana
+P00142,Gonzalez Medical Group,Primary Care,Shreveport,la
+P00143,Jones Medical Group,Nephrology,Shreveport,la
+P00144,Brown Medical Group,Endocrinology,New Orleans,LA
+P00145,Martinez Medical Group,Family Medicine,Shreveport,LA
+P00146,Garcia Medical Group,Cardiology,New Orleans,LA
+P00147,Johnson Medical Group,Family Medicine,Lafayette,LA
+P00148,Brown Medical Group,Emergency Medicine,New Orleans,LA
+P00149,Lopez Medical Group,Primary Care,Shreveport,Louisiana
+P00150,Williams Medical Group,Family Medicine,Shreveport,Louisiana
+P00151,Jones Medical Group,Internal Medicine,Shreveport,Louisiana
+P00152,Brown Medical Group,Primary Care,Lake Charles,Louisiana
+P00153,Garcia Medical Group,Endocrinology,New Orleans,LA
+P00154,Gonzalez Medical Group,Endocrinology,Shreveport,LA
+P00155,Hernandez Medical Group,Primary Care,Baton Rouge,la
+P00156,Lopez Medical Group,Internal Medicine,New Orleans,LA
+P00157,Miller Medical Group,Endocrinology,Lafayette,LA
+P00158,Johnson Medical Group,Primary Care,Shreveport,Louisiana
+P00159,Gonzalez Medical Group,Internal Medicine,New Orleans,la
+P00160,Davis Medical Group,Internal Medicine,Lake Charles,la
+P00161,Miller Medical Group,Endocrinology,Baton Rouge,la
+P00162,Jones Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00163,Lopez Medical Group,Primary Care,Baton Rouge,Louisiana
+P00164,Miller Medical Group,Nephrology,Lake Charles,LA
+P00165,Davis Medical Group,Endocrinology,Shreveport,LA
+P00166,Lopez Medical Group,Cardiology,Baton Rouge,LA
+P00167,Gonzalez Medical Group,Internal Medicine,Lake Charles,LA
+P00168,Jones Medical Group,Internal Medicine,Shreveport,Louisiana
+P00169,Davis Medical Group,Family Medicine,New Orleans,LA
+P00170,Rodriguez Medical Group,Primary Care,Lake Charles,Louisiana
+P00171,Williams Medical Group,Nephrology,Baton Rouge,Louisiana
+P00172,Garcia Medical Group,Emergency Medicine,Baton Rouge,LA
+P00173,Gonzalez Medical Group,Primary Care,Lake Charles,la
+P00174,Rodriguez Medical Group,Endocrinology,Lake Charles,Louisiana
+P00175,Gonzalez Medical Group,Endocrinology,Shreveport,la
+P00176,Lopez Medical Group,Endocrinology,New Orleans,LA
+P00177,Gonzalez Medical Group,Internal Medicine,New Orleans,la
+P00178,Brown Medical Group,Cardiology,Shreveport,Louisiana
+P00179,Johnson Medical Group,Internal Medicine,Lake Charles,la
+P00180,Hernandez Medical Group,Internal Medicine,Lafayette,la
+P00181,Jones Medical Group,Nephrology,Lafayette,la
+P00182,Jones Medical Group,Cardiology,Shreveport,LA
+P00183,Jones Medical Group,Emergency Medicine,Shreveport,LA
+P00184,Davis Medical Group,Cardiology,Shreveport,Louisiana
+P00185,Brown Medical Group,Primary Care,Lake Charles,Louisiana
+P00186,Smith Medical Group,Nephrology,Baton Rouge,LA
+P00187,Brown Medical Group,Endocrinology,Shreveport,la
+P00188,Rodriguez Medical Group,Primary Care,Lafayette,Louisiana
+P00189,Johnson Medical Group,Cardiology,New Orleans,la
+P00190,Gonzalez Medical Group,Emergency Medicine,Lafayette,LA
+P00191,Davis Medical Group,Endocrinology,Lake Charles,Louisiana
+P00192,Martinez Medical Group,Nephrology,Shreveport,Louisiana
+P00193,Lopez Medical Group,Primary Care,New Orleans,Louisiana
+P00194,Johnson Medical Group,Cardiology,New Orleans,Louisiana
+P00195,Rodriguez Medical Group,Nephrology,Baton Rouge,LA
+P00196,Miller Medical Group,Cardiology,Lafayette,LA
+P00197,Brown Medical Group,Cardiology,Lake Charles,LA
+P00198,Miller Medical Group,Endocrinology,Lafayette,Louisiana
+P00199,Davis Medical Group,Nephrology,New Orleans,la
+P00200,Jones Medical Group,Family Medicine,Lake Charles,la
+P00201,Smith Medical Group,Emergency Medicine,Baton Rouge,la
+P00202,Williams Medical Group,Primary Care,Baton Rouge,Louisiana
+P00203,Martinez Medical Group,Internal Medicine,Shreveport,Louisiana
+P00204,Lopez Medical Group,Internal Medicine,Lake Charles,la
+P00205,Davis Medical Group,Nephrology,Baton Rouge,LA
+P00206,Hernandez Medical Group,Internal Medicine,Shreveport,Louisiana
+P00207,Miller Medical Group,Family Medicine,Shreveport,Louisiana
+P00208,Davis Medical Group,Internal Medicine,Lafayette,Louisiana
+P00209,Martinez Medical Group,Family Medicine,Lafayette,la
+P00210,Rodriguez Medical Group,Family Medicine,Lafayette,la
+P00211,Hernandez Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00212,Davis Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00213,Smith Medical Group,Family Medicine,Lake Charles,la
+P00214,Lopez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00215,Hernandez Medical Group,Endocrinology,Baton Rouge,la
+P00216,Hernandez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00217,Brown Medical Group,Family Medicine,Lafayette,Louisiana
+P00218,Johnson Medical Group,Primary Care,Baton Rouge,LA
+P00219,Miller Medical Group,Endocrinology,New Orleans,LA
+P00220,Rodriguez Medical Group,Family Medicine,Lafayette,LA
+P00221,Martinez Medical Group,Cardiology,Lafayette,Louisiana
+P00222,Lopez Medical Group,Nephrology,New Orleans,la
+P00223,Davis Medical Group,Cardiology,New Orleans,la
+P00224,Miller Medical Group,Family Medicine,Lafayette,Louisiana
+P00225,Lopez Medical Group,Emergency Medicine,Lafayette,LA
+P00226,Hernandez Medical Group,Family Medicine,New Orleans,LA
+P00227,Garcia Medical Group,Cardiology,Shreveport,la
+P00228,Lopez Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00229,Jones Medical Group,Internal Medicine,Lake Charles,LA
+P00230,Gonzalez Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00231,Garcia Medical Group,Cardiology,Shreveport,la
+P00232,Williams Medical Group,Primary Care,Baton Rouge,LA
+P00233,Rodriguez Medical Group,Internal Medicine,Lafayette,LA
+P00234,Jones Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00235,Davis Medical Group,Emergency Medicine,Baton Rouge,la
+P00236,Williams Medical Group,Emergency Medicine,New Orleans,LA
+P00237,Hernandez Medical Group,Internal Medicine,Lake Charles,LA
+P00238,Gonzalez Medical Group,Primary Care,Lafayette,Louisiana
+P00239,Davis Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00240,Jones Medical Group,Internal Medicine,Lafayette,Louisiana
+P00241,Rodriguez Medical Group,Emergency Medicine,New Orleans,LA
+P00242,Gonzalez Medical Group,Family Medicine,Lake Charles,la
+P00243,Martinez Medical Group,Emergency Medicine,Shreveport,la
+P00244,Davis Medical Group,Endocrinology,Lake Charles,Louisiana
+P00245,Garcia Medical Group,Endocrinology,Shreveport,la
+P00246,Johnson Medical Group,Endocrinology,Lafayette,LA
+P00247,Davis Medical Group,Endocrinology,Baton Rouge,la
+P00248,Gonzalez Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00249,Smith Medical Group,Cardiology,Shreveport,LA
+P00250,Williams Medical Group,Endocrinology,Lafayette,la
+P00251,Davis Medical Group,Family Medicine,Baton Rouge,LA
+P00252,Williams Medical Group,Family Medicine,Baton Rouge,LA
+P00253,Gonzalez Medical Group,Emergency Medicine,Lafayette,la
+P00254,Rodriguez Medical Group,Primary Care,Baton Rouge,la
+P00255,Rodriguez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00256,Hernandez Medical Group,Nephrology,New Orleans,LA
+P00257,Martinez Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00258,Garcia Medical Group,Cardiology,New Orleans,LA
+P00259,Davis Medical Group,Family Medicine,Lake Charles,LA
+P00260,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00261,Lopez Medical Group,Family Medicine,Lake Charles,LA
+P00262,Hernandez Medical Group,Endocrinology,New Orleans,la
+P00263,Hernandez Medical Group,Emergency Medicine,Lake Charles,LA
+P00264,Brown Medical Group,Primary Care,Shreveport,LA
+P00265,Smith Medical Group,Internal Medicine,New Orleans,la
+P00266,Hernandez Medical Group,Emergency Medicine,Shreveport,LA
+P00267,Jones Medical Group,Primary Care,Lake Charles,LA
+P00268,Miller Medical Group,Cardiology,Baton Rouge,la
+P00269,Jones Medical Group,Primary Care,New Orleans,LA
+P00270,Johnson Medical Group,Internal Medicine,Lafayette,LA
+P00271,Williams Medical Group,Cardiology,Baton Rouge,LA
+P00272,Hernandez Medical Group,Family Medicine,Lafayette,Louisiana
+P00273,Lopez Medical Group,Internal Medicine,New Orleans,LA
+P00274,Johnson Medical Group,Primary Care,Lafayette,LA
+P00275,Williams Medical Group,Endocrinology,Lafayette,Louisiana
+P00276,Gonzalez Medical Group,Emergency Medicine,Baton Rouge,LA
+P00277,Martinez Medical Group,Internal Medicine,Lafayette,Louisiana
+P00278,Rodriguez Medical Group,Cardiology,Lake Charles,LA
+P00279,Jones Medical Group,Endocrinology,Shreveport,LA
+P00280,Garcia Medical Group,Primary Care,Lafayette,LA
+P00281,Johnson Medical Group,Family Medicine,New Orleans,Louisiana
+P00282,Johnson Medical Group,Nephrology,Baton Rouge,LA
+P00283,Lopez Medical Group,Emergency Medicine,Baton Rouge,Louisiana
+P00284,Martinez Medical Group,Cardiology,Lafayette,Louisiana
+P00285,Williams Medical Group,Primary Care,Baton Rouge,la
+P00286,Martinez Medical Group,Nephrology,Lake Charles,Louisiana
+P00287,Jones Medical Group,Family Medicine,Lafayette,Louisiana
+P00288,Rodriguez Medical Group,Primary Care,New Orleans,Louisiana
+P00289,Brown Medical Group,Family Medicine,New Orleans,LA
+P00290,Lopez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00291,Jones Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00292,Martinez Medical Group,Nephrology,Lake Charles,Louisiana
+P00293,Johnson Medical Group,Nephrology,Shreveport,LA
+P00294,Smith Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00295,Hernandez Medical Group,Family Medicine,Baton Rouge,LA
+P00296,Garcia Medical Group,Cardiology,Lafayette,Louisiana
+P00297,Johnson Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00298,Davis Medical Group,Primary Care,Baton Rouge,Louisiana
+P00299,Jones Medical Group,Primary Care,Baton Rouge,la
+P00300,Hernandez Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00301,Williams Medical Group,Emergency Medicine,Baton Rouge,la
+P00302,Jones Medical Group,Family Medicine,New Orleans,la
+P00303,Williams Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00304,Smith Medical Group,Internal Medicine,Lake Charles,LA
+P00305,Hernandez Medical Group,Endocrinology,Shreveport,LA
+P00306,Miller Medical Group,Emergency Medicine,New Orleans,LA
+P00307,Hernandez Medical Group,Family Medicine,Lake Charles,LA
+P00308,Martinez Medical Group,Nephrology,Lafayette,la
+P00309,Hernandez Medical Group,Family Medicine,Lafayette,LA
+P00310,Lopez Medical Group,Family Medicine,New Orleans,la
+P00311,Garcia Medical Group,Nephrology,Shreveport,Louisiana
+P00312,Lopez Medical Group,Primary Care,Shreveport,la
+P00313,Johnson Medical Group,Endocrinology,Shreveport,Louisiana
+P00314,Jones Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00315,Smith Medical Group,Primary Care,Lafayette,LA
+P00316,Garcia Medical Group,Internal Medicine,Shreveport,LA
+P00317,Garcia Medical Group,Emergency Medicine,Lafayette,LA
+P00318,Hernandez Medical Group,Family Medicine,Lafayette,la
+P00319,Gonzalez Medical Group,Family Medicine,Lake Charles,la
+P00320,Gonzalez Medical Group,Primary Care,Shreveport,Louisiana
+P00321,Brown Medical Group,Primary Care,Shreveport,Louisiana
+P00322,Miller Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00323,Davis Medical Group,Internal Medicine,Shreveport,LA
+P00324,Martinez Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00325,Hernandez Medical Group,Endocrinology,Lafayette,Louisiana
+P00326,Lopez Medical Group,Cardiology,New Orleans,LA
+P00327,Jones Medical Group,Primary Care,Lafayette,la
+P00328,Gonzalez Medical Group,Primary Care,Shreveport,la
+P00329,Gonzalez Medical Group,Internal Medicine,New Orleans,la
+P00330,Hernandez Medical Group,Primary Care,Baton Rouge,la
+P00331,Gonzalez Medical Group,Nephrology,Lafayette,LA
+P00332,Garcia Medical Group,Emergency Medicine,Lake Charles,la
+P00333,Rodriguez Medical Group,Primary Care,Lake Charles,LA
+P00334,Miller Medical Group,Primary Care,New Orleans,la
+P00335,Hernandez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00336,Williams Medical Group,Family Medicine,Shreveport,Louisiana
+P00337,Johnson Medical Group,Cardiology,Shreveport,LA
+P00338,Garcia Medical Group,Family Medicine,Shreveport,la
+P00339,Martinez Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00340,Johnson Medical Group,Emergency Medicine,Shreveport,LA
+P00341,Martinez Medical Group,Primary Care,Lafayette,la
+P00342,Martinez Medical Group,Internal Medicine,Baton Rouge,la
+P00343,Brown Medical Group,Endocrinology,New Orleans,la
+P00344,Brown Medical Group,Endocrinology,Lake Charles,la
+P00345,Brown Medical Group,Primary Care,Lake Charles,Louisiana
+P00346,Williams Medical Group,Nephrology,Lake Charles,la
+P00347,Rodriguez Medical Group,Internal Medicine,Lafayette,LA
+P00348,Johnson Medical Group,Primary Care,Lafayette,LA
+P00349,Rodriguez Medical Group,Cardiology,Lafayette,LA
+P00350,Hernandez Medical Group,Cardiology,Shreveport,la
+P00351,Garcia Medical Group,Internal Medicine,Lake Charles,LA
+P00352,Brown Medical Group,Cardiology,New Orleans,LA
+P00353,Garcia Medical Group,Internal Medicine,New Orleans,la
+P00354,Garcia Medical Group,Family Medicine,Lake Charles,la
+P00355,Johnson Medical Group,Internal Medicine,Shreveport,Louisiana
+P00356,Jones Medical Group,Family Medicine,Lafayette,Louisiana
+P00357,Gonzalez Medical Group,Cardiology,Baton Rouge,la
+P00358,Jones Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00359,Lopez Medical Group,Internal Medicine,Lafayette,Louisiana
+P00360,Smith Medical Group,Internal Medicine,New Orleans,la
+P00361,Garcia Medical Group,Cardiology,New Orleans,Louisiana
+P00362,Johnson Medical Group,Endocrinology,Lake Charles,LA
+P00363,Johnson Medical Group,Emergency Medicine,Baton Rouge,la
+P00364,Lopez Medical Group,Internal Medicine,New Orleans,Louisiana
+P00365,Jones Medical Group,Cardiology,Lafayette,LA
+P00366,Rodriguez Medical Group,Endocrinology,Lafayette,Louisiana
+P00367,Hernandez Medical Group,Internal Medicine,New Orleans,Louisiana
+P00368,Rodriguez Medical Group,Nephrology,New Orleans,LA
+P00369,Davis Medical Group,Internal Medicine,Shreveport,Louisiana
+P00370,Brown Medical Group,Primary Care,New Orleans,Louisiana
+P00371,Garcia Medical Group,Emergency Medicine,New Orleans,LA
+P00372,Martinez Medical Group,Emergency Medicine,New Orleans,la
+P00373,Rodriguez Medical Group,Family Medicine,Shreveport,Louisiana
+P00374,Jones Medical Group,Primary Care,Shreveport,LA
+P00375,Rodriguez Medical Group,Internal Medicine,Lafayette,Louisiana
+P00376,Hernandez Medical Group,Primary Care,Baton Rouge,Louisiana
+P00377,Garcia Medical Group,Family Medicine,Lake Charles,LA
+P00378,Garcia Medical Group,Primary Care,Lafayette,LA
+P00379,Johnson Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00380,Lopez Medical Group,Cardiology,Shreveport,LA
+P00381,Brown Medical Group,Primary Care,Baton Rouge,la
+P00382,Miller Medical Group,Cardiology,New Orleans,la
+P00383,Brown Medical Group,Family Medicine,Shreveport,LA
+P00384,Smith Medical Group,Primary Care,New Orleans,Louisiana
+P00385,Brown Medical Group,Endocrinology,New Orleans,Louisiana
+P00386,Smith Medical Group,Primary Care,New Orleans,la
+P00387,Jones Medical Group,Primary Care,Shreveport,Louisiana
+P00388,Hernandez Medical Group,Cardiology,New Orleans,Louisiana
+P00389,Miller Medical Group,Internal Medicine,New Orleans,LA
+P00390,Jones Medical Group,Nephrology,Shreveport,LA
+P00391,Garcia Medical Group,Internal Medicine,Lafayette,Louisiana
+P00392,Rodriguez Medical Group,Endocrinology,Lake Charles,la
+P00393,Gonzalez Medical Group,Endocrinology,New Orleans,la
+P00394,Davis Medical Group,Cardiology,Baton Rouge,Louisiana
+P00395,Miller Medical Group,Primary Care,Shreveport,la
+P00396,Miller Medical Group,Family Medicine,Shreveport,la
+P00397,Davis Medical Group,Nephrology,New Orleans,LA
+P00398,Miller Medical Group,Endocrinology,Lafayette,la
+P00399,Garcia Medical Group,Cardiology,Lake Charles,la
+P00400,Johnson Medical Group,Nephrology,Baton Rouge,LA
+P00401,Smith Medical Group,Nephrology,Lake Charles,la
+P00402,Davis Medical Group,Internal Medicine,Shreveport,Louisiana
+P00403,Brown Medical Group,Internal Medicine,Lafayette,la
+P00404,Martinez Medical Group,Family Medicine,Shreveport,LA
+P00405,Brown Medical Group,Cardiology,New Orleans,LA
+P00406,Miller Medical Group,Internal Medicine,Lafayette,Louisiana
+P00407,Garcia Medical Group,Primary Care,New Orleans,la
+P00408,Williams Medical Group,Family Medicine,Lake Charles,LA
+P00409,Davis Medical Group,Internal Medicine,New Orleans,la
+P00410,Davis Medical Group,Family Medicine,New Orleans,LA
+P00411,Davis Medical Group,Family Medicine,Lafayette,LA
+P00412,Lopez Medical Group,Endocrinology,Shreveport,Louisiana
+P00413,Smith Medical Group,Primary Care,Baton Rouge,la
+P00414,Rodriguez Medical Group,Nephrology,Shreveport,la
+P00415,Gonzalez Medical Group,Family Medicine,Baton Rouge,la
+P00416,Brown Medical Group,Cardiology,New Orleans,LA
+P00417,Brown Medical Group,Cardiology,Lake Charles,Louisiana
+P00418,Gonzalez Medical Group,Primary Care,Shreveport,Louisiana
+P00419,Lopez Medical Group,Emergency Medicine,New Orleans,la
+P00420,Martinez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00421,Hernandez Medical Group,Primary Care,Shreveport,LA
+P00422,Rodriguez Medical Group,Emergency Medicine,New Orleans,la
+P00423,Jones Medical Group,Internal Medicine,Shreveport,la
+P00424,Smith Medical Group,Internal Medicine,New Orleans,la
+P00425,Miller Medical Group,Cardiology,Shreveport,LA
+P00426,Brown Medical Group,Emergency Medicine,Shreveport,LA
+P00427,Hernandez Medical Group,Endocrinology,New Orleans,LA
+P00428,Rodriguez Medical Group,Emergency Medicine,Shreveport,la
+P00429,Williams Medical Group,Endocrinology,Shreveport,LA
+P00430,Martinez Medical Group,Family Medicine,Lafayette,LA
+P00431,Davis Medical Group,Endocrinology,Shreveport,la
+P00432,Lopez Medical Group,Cardiology,Shreveport,la
+P00433,Davis Medical Group,Endocrinology,Lake Charles,LA
+P00434,Miller Medical Group,Family Medicine,Baton Rouge,la
+P00435,Williams Medical Group,Nephrology,Shreveport,LA
+P00436,Gonzalez Medical Group,Family Medicine,Lafayette,la
+P00437,Garcia Medical Group,Family Medicine,Shreveport,la
+P00438,Johnson Medical Group,Cardiology,Shreveport,Louisiana
+P00439,Miller Medical Group,Nephrology,New Orleans,Louisiana
+P00440,Gonzalez Medical Group,Family Medicine,Shreveport,Louisiana
+P00441,Johnson Medical Group,Nephrology,New Orleans,LA
+P00442,Williams Medical Group,Endocrinology,Shreveport,LA
+P00443,Lopez Medical Group,Family Medicine,Lafayette,LA
+P00444,Jones Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00445,Jones Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00446,Davis Medical Group,Endocrinology,New Orleans,Louisiana
+P00447,Jones Medical Group,Internal Medicine,Baton Rouge,la
+P00448,Miller Medical Group,Cardiology,Lake Charles,Louisiana
+P00449,Williams Medical Group,Nephrology,Baton Rouge,la
+P00450,Gonzalez Medical Group,Internal Medicine,Baton Rouge,LA
+P00451,Martinez Medical Group,Internal Medicine,New Orleans,Louisiana
+P00452,Davis Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00453,Brown Medical Group,Endocrinology,Lake Charles,Louisiana
+P00454,Gonzalez Medical Group,Primary Care,Shreveport,LA
+P00455,Brown Medical Group,Family Medicine,Lafayette,Louisiana
+P00456,Johnson Medical Group,Cardiology,Shreveport,la
+P00457,Davis Medical Group,Primary Care,New Orleans,LA
+P00458,Brown Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00459,Gonzalez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00460,Rodriguez Medical Group,Endocrinology,Lake Charles,Louisiana
+P00461,Miller Medical Group,Primary Care,Shreveport,Louisiana
+P00462,Miller Medical Group,Family Medicine,Lafayette,la
+P00463,Martinez Medical Group,Internal Medicine,Lake Charles,la
+P00464,Miller Medical Group,Family Medicine,Lake Charles,LA
+P00465,Johnson Medical Group,Primary Care,Lafayette,LA
+P00466,Rodriguez Medical Group,Emergency Medicine,Lake Charles,la
+P00467,Garcia Medical Group,Internal Medicine,Shreveport,LA
+P00468,Rodriguez Medical Group,Family Medicine,Baton Rouge,la
+P00469,Smith Medical Group,Emergency Medicine,New Orleans,la
+P00470,Johnson Medical Group,Nephrology,Baton Rouge,la
+P00471,Miller Medical Group,Family Medicine,Baton Rouge,LA
+P00472,Gonzalez Medical Group,Primary Care,Shreveport,LA
+P00473,Garcia Medical Group,Cardiology,Lake Charles,la
+P00474,Brown Medical Group,Internal Medicine,Shreveport,LA
+P00475,Hernandez Medical Group,Emergency Medicine,Baton Rouge,la
+P00476,Gonzalez Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00477,Rodriguez Medical Group,Primary Care,New Orleans,Louisiana
+P00478,Davis Medical Group,Cardiology,Lake Charles,Louisiana
+P00479,Lopez Medical Group,Family Medicine,Shreveport,la
+P00480,Rodriguez Medical Group,Family Medicine,New Orleans,Louisiana
+P00481,Smith Medical Group,Endocrinology,New Orleans,Louisiana
+P00482,Brown Medical Group,Internal Medicine,Shreveport,LA
+P00483,Brown Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00484,Gonzalez Medical Group,Endocrinology,Shreveport,Louisiana
+P00485,Lopez Medical Group,Endocrinology,New Orleans,Louisiana
+P00486,Jones Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00487,Jones Medical Group,Cardiology,Lake Charles,Louisiana
+P00488,Gonzalez Medical Group,Internal Medicine,Baton Rouge,la
+P00489,Lopez Medical Group,Nephrology,Lafayette,Louisiana
+P00490,Smith Medical Group,Primary Care,Lake Charles,Louisiana
+P00491,Martinez Medical Group,Cardiology,Lafayette,la
+P00492,Johnson Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00493,Garcia Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00494,Rodriguez Medical Group,Endocrinology,New Orleans,la
+P00495,Lopez Medical Group,Family Medicine,Shreveport,la
+P00496,Brown Medical Group,Nephrology,Lafayette,LA
+P00497,Garcia Medical Group,Primary Care,Lafayette,Louisiana
+P00498,Johnson Medical Group,Nephrology,Lafayette,la
+P00499,Martinez Medical Group,Internal Medicine,Shreveport,LA
+P00500,Johnson Medical Group,Nephrology,Lafayette,LA
+P00501,Gonzalez Medical Group,Endocrinology,Lake Charles,la
+P00502,Miller Medical Group,Internal Medicine,Lafayette,la
+P00503,Martinez Medical Group,Emergency Medicine,New Orleans,la
+P00504,Smith Medical Group,Family Medicine,Baton Rouge,LA
+P00505,Garcia Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00506,Brown Medical Group,Cardiology,Lafayette,LA
+P00507,Miller Medical Group,Endocrinology,Lake Charles,LA
+P00508,Brown Medical Group,Family Medicine,New Orleans,la
+P00509,Williams Medical Group,Primary Care,Lafayette,la
+P00510,Brown Medical Group,Endocrinology,New Orleans,la
+P00511,Johnson Medical Group,Emergency Medicine,Lafayette,LA
+P00512,Garcia Medical Group,Nephrology,New Orleans,Louisiana
+P00513,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00514,Hernandez Medical Group,Internal Medicine,Shreveport,LA
+P00515,Miller Medical Group,Internal Medicine,Lafayette,Louisiana
+P00516,Martinez Medical Group,Nephrology,Lafayette,Louisiana
+P00517,Hernandez Medical Group,Internal Medicine,Shreveport,LA
+P00518,Williams Medical Group,Cardiology,New Orleans,la
+P00519,Jones Medical Group,Emergency Medicine,New Orleans,LA
+P00520,Johnson Medical Group,Family Medicine,Baton Rouge,la
+P00521,Miller Medical Group,Family Medicine,Lake Charles,Louisiana
+P00522,Smith Medical Group,Nephrology,Baton Rouge,LA
+P00523,Gonzalez Medical Group,Family Medicine,Lake Charles,la
+P00524,Smith Medical Group,Internal Medicine,Lake Charles,la
+P00525,Davis Medical Group,Cardiology,New Orleans,LA
+P00526,Hernandez Medical Group,Cardiology,Lake Charles,LA
+P00527,Jones Medical Group,Cardiology,Shreveport,LA
+P00528,Miller Medical Group,Family Medicine,Baton Rouge,la
+P00529,Hernandez Medical Group,Family Medicine,Shreveport,LA
+P00530,Brown Medical Group,Nephrology,Baton Rouge,la
+P00531,Hernandez Medical Group,Primary Care,Baton Rouge,Louisiana
+P00532,Hernandez Medical Group,Primary Care,Lafayette,Louisiana
+P00533,Williams Medical Group,Endocrinology,Baton Rouge,LA
+P00534,Brown Medical Group,Primary Care,Lafayette,la
+P00535,Davis Medical Group,Endocrinology,Shreveport,Louisiana
+P00536,Jones Medical Group,Nephrology,Lafayette,LA
+P00537,Rodriguez Medical Group,Primary Care,Shreveport,Louisiana
+P00538,Smith Medical Group,Endocrinology,New Orleans,LA
+P00539,Brown Medical Group,Family Medicine,New Orleans,LA
+P00540,Smith Medical Group,Nephrology,Lafayette,Louisiana
+P00541,Lopez Medical Group,Internal Medicine,New Orleans,Louisiana
+P00542,Rodriguez Medical Group,Family Medicine,Baton Rouge,la
+P00543,Williams Medical Group,Cardiology,Lake Charles,la
+P00544,Johnson Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00545,Miller Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00546,Brown Medical Group,Internal Medicine,Lafayette,LA
+P00547,Johnson Medical Group,Cardiology,Lafayette,Louisiana
+P00548,Miller Medical Group,Nephrology,Lake Charles,la
+P00549,Rodriguez Medical Group,Nephrology,Lafayette,LA
+P00550,Gonzalez Medical Group,Family Medicine,New Orleans,la
+P00551,Miller Medical Group,Nephrology,Shreveport,Louisiana
+P00552,Miller Medical Group,Internal Medicine,Lafayette,Louisiana
+P00553,Brown Medical Group,Primary Care,Baton Rouge,Louisiana
+P00554,Davis Medical Group,Endocrinology,Shreveport,LA
+P00555,Brown Medical Group,Internal Medicine,Shreveport,la
+P00556,Jones Medical Group,Emergency Medicine,Shreveport,la
+P00557,Brown Medical Group,Internal Medicine,New Orleans,LA
+P00558,Rodriguez Medical Group,Internal Medicine,Lafayette,la
+P00559,Hernandez Medical Group,Nephrology,Baton Rouge,la
+P00560,Jones Medical Group,Family Medicine,New Orleans,la
+P00561,Jones Medical Group,Endocrinology,Lake Charles,LA
+P00562,Garcia Medical Group,Family Medicine,Lake Charles,Louisiana
+P00563,Davis Medical Group,Family Medicine,New Orleans,LA
+P00564,Johnson Medical Group,Primary Care,Lake Charles,la
+P00565,Brown Medical Group,Emergency Medicine,Lake Charles,LA
+P00566,Garcia Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00567,Gonzalez Medical Group,Nephrology,Lake Charles,Louisiana
+P00568,Lopez Medical Group,Cardiology,Lake Charles,Louisiana
+P00569,Rodriguez Medical Group,Endocrinology,Baton Rouge,LA
+P00570,Rodriguez Medical Group,Emergency Medicine,Shreveport,LA
+P00571,Rodriguez Medical Group,Primary Care,Shreveport,la
+P00572,Gonzalez Medical Group,Family Medicine,Lafayette,Louisiana
+P00573,Brown Medical Group,Family Medicine,Lake Charles,Louisiana
+P00574,Garcia Medical Group,Emergency Medicine,Shreveport,la
+P00575,Gonzalez Medical Group,Emergency Medicine,Shreveport,LA
+P00576,Smith Medical Group,Emergency Medicine,New Orleans,LA
+P00577,Davis Medical Group,Primary Care,Lake Charles,Louisiana
+P00578,Brown Medical Group,Internal Medicine,Shreveport,la
+P00579,Jones Medical Group,Family Medicine,Lake Charles,Louisiana
+P00580,Martinez Medical Group,Cardiology,Lafayette,Louisiana
+P00581,Gonzalez Medical Group,Endocrinology,Lake Charles,Louisiana
+P00582,Smith Medical Group,Family Medicine,New Orleans,LA
+P00583,Miller Medical Group,Endocrinology,New Orleans,la
+P00584,Gonzalez Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00585,Miller Medical Group,Nephrology,Lake Charles,LA
+P00586,Jones Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00587,Hernandez Medical Group,Emergency Medicine,Lake Charles,LA
+P00588,Garcia Medical Group,Family Medicine,New Orleans,la
+P00589,Garcia Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00590,Williams Medical Group,Cardiology,Lake Charles,LA
+P00591,Jones Medical Group,Internal Medicine,Baton Rouge,la
+P00592,Rodriguez Medical Group,Primary Care,Lake Charles,la
+P00593,Jones Medical Group,Cardiology,Lake Charles,LA
+P00594,Johnson Medical Group,Family Medicine,Lake Charles,Louisiana
+P00595,Brown Medical Group,Primary Care,Baton Rouge,la
+P00596,Rodriguez Medical Group,Nephrology,Shreveport,Louisiana
+P00597,Miller Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00598,Jones Medical Group,Emergency Medicine,Shreveport,LA
+P00599,Rodriguez Medical Group,Cardiology,Baton Rouge,la
+P00600,Garcia Medical Group,Family Medicine,Shreveport,LA
+P00601,Jones Medical Group,Primary Care,Shreveport,Louisiana
+P00602,Hernandez Medical Group,Nephrology,New Orleans,Louisiana
+P00603,Lopez Medical Group,Primary Care,Baton Rouge,la
+P00604,Miller Medical Group,Nephrology,Lafayette,LA
+P00605,Miller Medical Group,Endocrinology,New Orleans,la
+P00606,Brown Medical Group,Primary Care,Lafayette,la
+P00607,Gonzalez Medical Group,Family Medicine,Shreveport,Louisiana
+P00608,Lopez Medical Group,Nephrology,New Orleans,LA
+P00609,Garcia Medical Group,Nephrology,Lake Charles,la
+P00610,Miller Medical Group,Nephrology,Shreveport,LA
+P00611,Miller Medical Group,Emergency Medicine,Baton Rouge,LA
+P00612,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00613,Hernandez Medical Group,Family Medicine,Lafayette,la
+P00614,Garcia Medical Group,Internal Medicine,Shreveport,LA
+P00615,Garcia Medical Group,Cardiology,Shreveport,Louisiana
+P00616,Martinez Medical Group,Internal Medicine,New Orleans,la
+P00617,Lopez Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00618,Hernandez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00619,Martinez Medical Group,Nephrology,Lake Charles,LA
+P00620,Lopez Medical Group,Endocrinology,Shreveport,Louisiana
+P00621,Miller Medical Group,Endocrinology,Lake Charles,Louisiana
+P00622,Hernandez Medical Group,Primary Care,Lake Charles,LA
+P00623,Brown Medical Group,Nephrology,Baton Rouge,LA
+P00624,Garcia Medical Group,Internal Medicine,Shreveport,LA
+P00625,Williams Medical Group,Endocrinology,Lafayette,Louisiana
+P00626,Martinez Medical Group,Internal Medicine,Baton Rouge,la
+P00627,Davis Medical Group,Family Medicine,Lafayette,LA
+P00628,Davis Medical Group,Emergency Medicine,Lafayette,LA
+P00629,Jones Medical Group,Endocrinology,Shreveport,la
+P00630,Rodriguez Medical Group,Family Medicine,Baton Rouge,LA
+P00631,Miller Medical Group,Endocrinology,New Orleans,Louisiana
+P00632,Miller Medical Group,Family Medicine,Lake Charles,Louisiana
+P00633,Davis Medical Group,Primary Care,Lake Charles,la
+P00634,Johnson Medical Group,Primary Care,New Orleans,Louisiana
+P00635,Davis Medical Group,Nephrology,Shreveport,LA
+P00636,Miller Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00637,Garcia Medical Group,Internal Medicine,Lafayette,Louisiana
+P00638,Smith Medical Group,Internal Medicine,Shreveport,LA
+P00639,Hernandez Medical Group,Family Medicine,Shreveport,Louisiana
+P00640,Gonzalez Medical Group,Nephrology,Baton Rouge,LA
+P00641,Rodriguez Medical Group,Family Medicine,Lake Charles,LA
+P00642,Martinez Medical Group,Endocrinology,Lake Charles,LA
+P00643,Hernandez Medical Group,Family Medicine,New Orleans,Louisiana
+P00644,Hernandez Medical Group,Cardiology,Baton Rouge,LA
+P00645,Miller Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00646,Rodriguez Medical Group,Endocrinology,New Orleans,Louisiana
+P00647,Rodriguez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00648,Martinez Medical Group,Nephrology,New Orleans,Louisiana
+P00649,Hernandez Medical Group,Endocrinology,New Orleans,Louisiana
+P00650,Jones Medical Group,Primary Care,Lake Charles,la
+P00651,Gonzalez Medical Group,Internal Medicine,New Orleans,LA
+P00652,Smith Medical Group,Cardiology,Lake Charles,la
+P00653,Hernandez Medical Group,Cardiology,Lake Charles,LA
+P00654,Rodriguez Medical Group,Nephrology,Shreveport,la
+P00655,Hernandez Medical Group,Cardiology,Shreveport,la
+P00656,Garcia Medical Group,Endocrinology,Lake Charles,la
+P00657,Miller Medical Group,Internal Medicine,Lake Charles,LA
+P00658,Jones Medical Group,Cardiology,Lafayette,Louisiana
+P00659,Williams Medical Group,Family Medicine,New Orleans,LA
+P00660,Gonzalez Medical Group,Endocrinology,Lafayette,la
+P00661,Brown Medical Group,Endocrinology,Lafayette,la
+P00662,Hernandez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00663,Johnson Medical Group,Internal Medicine,New Orleans,la
+P00664,Jones Medical Group,Internal Medicine,Lake Charles,LA
+P00665,Gonzalez Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00666,Jones Medical Group,Endocrinology,Shreveport,LA
+P00667,Garcia Medical Group,Internal Medicine,Lake Charles,LA
+P00668,Martinez Medical Group,Endocrinology,Baton Rouge,la
+P00669,Davis Medical Group,Family Medicine,Lake Charles,la
+P00670,Jones Medical Group,Family Medicine,New Orleans,Louisiana
+P00671,Rodriguez Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00672,Miller Medical Group,Primary Care,Lafayette,LA
+P00673,Gonzalez Medical Group,Cardiology,Lafayette,Louisiana
+P00674,Rodriguez Medical Group,Nephrology,Baton Rouge,LA
+P00675,Johnson Medical Group,Internal Medicine,Baton Rouge,la
+P00676,Williams Medical Group,Cardiology,Shreveport,la
+P00677,Williams Medical Group,Primary Care,Lafayette,LA
+P00678,Garcia Medical Group,Nephrology,Lafayette,la
+P00679,Jones Medical Group,Endocrinology,Shreveport,la
+P00680,Gonzalez Medical Group,Endocrinology,Lake Charles,LA
+P00681,Lopez Medical Group,Primary Care,Shreveport,la
+P00682,Garcia Medical Group,Cardiology,New Orleans,la
+P00683,Hernandez Medical Group,Family Medicine,Shreveport,la
+P00684,Smith Medical Group,Endocrinology,Shreveport,LA
+P00685,Davis Medical Group,Primary Care,Baton Rouge,LA
+P00686,Martinez Medical Group,Cardiology,New Orleans,la
+P00687,Gonzalez Medical Group,Cardiology,Lafayette,Louisiana
+P00688,Rodriguez Medical Group,Family Medicine,Lafayette,la
+P00689,Gonzalez Medical Group,Family Medicine,Shreveport,Louisiana
+P00690,Jones Medical Group,Family Medicine,Lafayette,la
+P00691,Johnson Medical Group,Primary Care,Shreveport,Louisiana
+P00692,Gonzalez Medical Group,Primary Care,Lake Charles,la
+P00693,Lopez Medical Group,Family Medicine,Shreveport,Louisiana
+P00694,Johnson Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00695,Lopez Medical Group,Nephrology,Lake Charles,LA
+P00696,Rodriguez Medical Group,Internal Medicine,Shreveport,la
+P00697,Gonzalez Medical Group,Internal Medicine,Baton Rouge,la
+P00698,Rodriguez Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00699,Hernandez Medical Group,Nephrology,Lafayette,LA
+P00700,Martinez Medical Group,Endocrinology,Shreveport,Louisiana
+P00701,Jones Medical Group,Primary Care,Lake Charles,Louisiana
+P00702,Davis Medical Group,Primary Care,Lake Charles,la
+P00703,Davis Medical Group,Primary Care,New Orleans,la
+P00704,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00705,Smith Medical Group,Emergency Medicine,Baton Rouge,la
+P00706,Davis Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00707,Gonzalez Medical Group,Cardiology,Baton Rouge,la
+P00708,Hernandez Medical Group,Cardiology,Shreveport,Louisiana
+P00709,Garcia Medical Group,Emergency Medicine,Lake Charles,LA
+P00710,Gonzalez Medical Group,Primary Care,Lafayette,la
+P00711,Smith Medical Group,Internal Medicine,Shreveport,LA
+P00712,Jones Medical Group,Nephrology,Lafayette,Louisiana
+P00713,Johnson Medical Group,Primary Care,Lafayette,la
+P00714,Hernandez Medical Group,Cardiology,Lafayette,LA
+P00715,Davis Medical Group,Emergency Medicine,Lake Charles,LA
+P00716,Davis Medical Group,Family Medicine,Shreveport,LA
+P00717,Brown Medical Group,Primary Care,New Orleans,la
+P00718,Smith Medical Group,Primary Care,Lafayette,la
+P00719,Hernandez Medical Group,Primary Care,New Orleans,la
+P00720,Lopez Medical Group,Family Medicine,Lafayette,Louisiana
+P00721,Williams Medical Group,Nephrology,Shreveport,Louisiana
+P00722,Williams Medical Group,Endocrinology,Shreveport,LA
+P00723,Smith Medical Group,Primary Care,Lafayette,la
+P00724,Williams Medical Group,Emergency Medicine,Baton Rouge,la
+P00725,Lopez Medical Group,Internal Medicine,Shreveport,la
+P00726,Brown Medical Group,Primary Care,Lafayette,Louisiana
+P00727,Martinez Medical Group,Internal Medicine,Shreveport,LA
+P00728,Rodriguez Medical Group,Primary Care,Baton Rouge,Louisiana
+P00729,Smith Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00730,Miller Medical Group,Family Medicine,Lake Charles,Louisiana
+P00731,Garcia Medical Group,Endocrinology,New Orleans,Louisiana
+P00732,Johnson Medical Group,Endocrinology,New Orleans,Louisiana
+P00733,Williams Medical Group,Family Medicine,Shreveport,LA
+P00734,Davis Medical Group,Family Medicine,New Orleans,la
+P00735,Rodriguez Medical Group,Internal Medicine,Lake Charles,LA
+P00736,Jones Medical Group,Cardiology,Lake Charles,LA
+P00737,Martinez Medical Group,Internal Medicine,Shreveport,Louisiana
+P00738,Johnson Medical Group,Family Medicine,Lafayette,LA
+P00739,Martinez Medical Group,Primary Care,Shreveport,LA
+P00740,Brown Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00741,Rodriguez Medical Group,Endocrinology,Lafayette,Louisiana
+P00742,Williams Medical Group,Family Medicine,Shreveport,la
+P00743,Jones Medical Group,Primary Care,Lafayette,Louisiana
+P00744,Davis Medical Group,Primary Care,New Orleans,la
+P00745,Jones Medical Group,Emergency Medicine,New Orleans,LA
+P00746,Gonzalez Medical Group,Cardiology,New Orleans,la
+P00747,Garcia Medical Group,Cardiology,Lafayette,LA
+P00748,Jones Medical Group,Primary Care,Lafayette,la
+P00749,Martinez Medical Group,Primary Care,Shreveport,LA
+P00750,Gonzalez Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00751,Hernandez Medical Group,Cardiology,Lake Charles,Louisiana
+P00752,Johnson Medical Group,Cardiology,Baton Rouge,LA
+P00753,Lopez Medical Group,Nephrology,Baton Rouge,la
+P00754,Rodriguez Medical Group,Nephrology,Lake Charles,Louisiana
+P00755,Miller Medical Group,Nephrology,New Orleans,Louisiana
+P00756,Brown Medical Group,Family Medicine,Shreveport,LA
+P00757,Smith Medical Group,Cardiology,New Orleans,la
+P00758,Garcia Medical Group,Nephrology,Lake Charles,la
+P00759,Williams Medical Group,Nephrology,New Orleans,LA
+P00760,Davis Medical Group,Endocrinology,Shreveport,LA
+P00761,Williams Medical Group,Nephrology,Lake Charles,la
+P00762,Brown Medical Group,Nephrology,Lafayette,la
+P00763,Jones Medical Group,Cardiology,Lake Charles,la
+P00764,Lopez Medical Group,Primary Care,Lafayette,LA
+P00765,Miller Medical Group,Internal Medicine,New Orleans,LA
+P00766,Jones Medical Group,Family Medicine,Lafayette,la
+P00767,Martinez Medical Group,Endocrinology,Baton Rouge,LA
+P00768,Martinez Medical Group,Primary Care,Lafayette,la
+P00769,Lopez Medical Group,Emergency Medicine,Lake Charles,la
+P00770,Brown Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00771,Smith Medical Group,Endocrinology,Lake Charles,la
+P00772,Smith Medical Group,Internal Medicine,Lake Charles,la
+P00773,Brown Medical Group,Internal Medicine,Lake Charles,la
+P00774,Smith Medical Group,Nephrology,New Orleans,LA
+P00775,Johnson Medical Group,Endocrinology,Shreveport,la
+P00776,Rodriguez Medical Group,Internal Medicine,Shreveport,la
+P00777,Rodriguez Medical Group,Emergency Medicine,Lafayette,la
+P00778,Brown Medical Group,Nephrology,Shreveport,Louisiana
+P00779,Williams Medical Group,Cardiology,Shreveport,LA
+P00780,Smith Medical Group,Cardiology,Lake Charles,Louisiana
+P00781,Martinez Medical Group,Family Medicine,Lafayette,LA
+P00782,Rodriguez Medical Group,Primary Care,New Orleans,Louisiana
+P00783,Jones Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00784,Jones Medical Group,Primary Care,New Orleans,LA
+P00785,Gonzalez Medical Group,Family Medicine,New Orleans,LA
+P00786,Garcia Medical Group,Internal Medicine,New Orleans,Louisiana
+P00787,Smith Medical Group,Nephrology,Baton Rouge,LA
+P00788,Garcia Medical Group,Nephrology,Lafayette,la
+P00789,Smith Medical Group,Nephrology,Baton Rouge,LA
+P00790,Hernandez Medical Group,Cardiology,Baton Rouge,LA
+P00791,Gonzalez Medical Group,Internal Medicine,Baton Rouge,la
+P00792,Gonzalez Medical Group,Primary Care,Lake Charles,Louisiana
+P00793,Garcia Medical Group,Endocrinology,Shreveport,LA
+P00794,Rodriguez Medical Group,Primary Care,Shreveport,la
+P00795,Lopez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00796,Martinez Medical Group,Internal Medicine,Lake Charles,la
+P00797,Davis Medical Group,Internal Medicine,Shreveport,la
+P00798,Hernandez Medical Group,Endocrinology,Baton Rouge,Louisiana
+P00799,Lopez Medical Group,Primary Care,New Orleans,Louisiana
+P00800,Jones Medical Group,Cardiology,Baton Rouge,la
+P00801,Jones Medical Group,Endocrinology,Lafayette,Louisiana
+P00802,Hernandez Medical Group,Internal Medicine,Lake Charles,LA
+P00803,Rodriguez Medical Group,Internal Medicine,Lafayette,la
+P00804,Gonzalez Medical Group,Emergency Medicine,Shreveport,LA
+P00805,Smith Medical Group,Internal Medicine,Shreveport,la
+P00806,Johnson Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00807,Miller Medical Group,Internal Medicine,Lafayette,Louisiana
+P00808,Hernandez Medical Group,Family Medicine,Shreveport,Louisiana
+P00809,Garcia Medical Group,Nephrology,Baton Rouge,Louisiana
+P00810,Hernandez Medical Group,Internal Medicine,Lake Charles,la
+P00811,Williams Medical Group,Family Medicine,Lafayette,LA
+P00812,Hernandez Medical Group,Nephrology,New Orleans,Louisiana
+P00813,Garcia Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00814,Miller Medical Group,Emergency Medicine,Baton Rouge,la
+P00815,Garcia Medical Group,Emergency Medicine,Lake Charles,la
+P00816,Johnson Medical Group,Family Medicine,Lafayette,LA
+P00817,Smith Medical Group,Family Medicine,Lake Charles,LA
+P00818,Williams Medical Group,Endocrinology,Baton Rouge,la
+P00819,Jones Medical Group,Nephrology,Lafayette,LA
+P00820,Miller Medical Group,Family Medicine,Shreveport,la
+P00821,Williams Medical Group,Internal Medicine,Lake Charles,LA
+P00822,Miller Medical Group,Emergency Medicine,Baton Rouge,Louisiana
+P00823,Hernandez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00824,Smith Medical Group,Endocrinology,Lake Charles,Louisiana
+P00825,Hernandez Medical Group,Family Medicine,Lafayette,Louisiana
+P00826,Miller Medical Group,Endocrinology,Lake Charles,Louisiana
+P00827,Smith Medical Group,Endocrinology,Shreveport,la
+P00828,Gonzalez Medical Group,Internal Medicine,Lafayette,Louisiana
+P00829,Smith Medical Group,Endocrinology,Baton Rouge,la
+P00830,Johnson Medical Group,Family Medicine,Lafayette,LA
+P00831,Lopez Medical Group,Nephrology,New Orleans,Louisiana
+P00832,Gonzalez Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00833,Gonzalez Medical Group,Nephrology,Shreveport,LA
+P00834,Martinez Medical Group,Family Medicine,Lafayette,la
+P00835,Davis Medical Group,Internal Medicine,Lafayette,la
+P00836,Brown Medical Group,Nephrology,Lake Charles,LA
+P00837,Williams Medical Group,Endocrinology,Baton Rouge,la
+P00838,Lopez Medical Group,Endocrinology,Lafayette,la
+P00839,Williams Medical Group,Nephrology,Baton Rouge,LA
+P00840,Johnson Medical Group,Family Medicine,Baton Rouge,Louisiana
+P00841,Hernandez Medical Group,Primary Care,Lafayette,LA
+P00842,Smith Medical Group,Nephrology,Lafayette,Louisiana
+P00843,Rodriguez Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00844,Smith Medical Group,Emergency Medicine,Baton Rouge,Louisiana
+P00845,Williams Medical Group,Endocrinology,Baton Rouge,LA
+P00846,Jones Medical Group,Family Medicine,Lafayette,Louisiana
+P00847,Gonzalez Medical Group,Emergency Medicine,Shreveport,la
+P00848,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00849,Johnson Medical Group,Primary Care,Shreveport,Louisiana
+P00850,Jones Medical Group,Cardiology,Lafayette,LA
+P00851,Lopez Medical Group,Cardiology,Baton Rouge,LA
+P00852,Martinez Medical Group,Internal Medicine,Baton Rouge,LA
+P00853,Martinez Medical Group,Family Medicine,Shreveport,LA
+P00854,Garcia Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00855,Gonzalez Medical Group,Cardiology,Baton Rouge,LA
+P00856,Lopez Medical Group,Primary Care,New Orleans,LA
+P00857,Hernandez Medical Group,Family Medicine,New Orleans,LA
+P00858,Williams Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00859,Garcia Medical Group,Primary Care,Baton Rouge,LA
+P00860,Williams Medical Group,Internal Medicine,Shreveport,la
+P00861,Smith Medical Group,Internal Medicine,Lafayette,la
+P00862,Davis Medical Group,Emergency Medicine,Baton Rouge,LA
+P00863,Martinez Medical Group,Primary Care,Lake Charles,la
+P00864,Brown Medical Group,Internal Medicine,Baton Rouge,la
+P00865,Martinez Medical Group,Internal Medicine,Baton Rouge,la
+P00866,Martinez Medical Group,Endocrinology,Shreveport,LA
+P00867,Martinez Medical Group,Primary Care,Baton Rouge,la
+P00868,Garcia Medical Group,Primary Care,New Orleans,LA
+P00869,Jones Medical Group,Nephrology,Lake Charles,Louisiana
+P00870,Gonzalez Medical Group,Primary Care,Shreveport,la
+P00871,Gonzalez Medical Group,Nephrology,Baton Rouge,LA
+P00872,Martinez Medical Group,Cardiology,Lake Charles,LA
+P00873,Gonzalez Medical Group,Cardiology,Lake Charles,Louisiana
+P00874,Brown Medical Group,Cardiology,Lake Charles,LA
+P00875,Williams Medical Group,Nephrology,New Orleans,LA
+P00876,Miller Medical Group,Family Medicine,Lafayette,la
+P00877,Davis Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00878,Smith Medical Group,Cardiology,Lafayette,LA
+P00879,Hernandez Medical Group,Endocrinology,New Orleans,la
+P00880,Garcia Medical Group,Primary Care,Lake Charles,LA
+P00881,Davis Medical Group,Internal Medicine,Lafayette,la
+P00882,Lopez Medical Group,Nephrology,Lafayette,Louisiana
+P00883,Miller Medical Group,Emergency Medicine,New Orleans,LA
+P00884,Hernandez Medical Group,Family Medicine,New Orleans,Louisiana
+P00885,Garcia Medical Group,Internal Medicine,Lake Charles,LA
+P00886,Johnson Medical Group,Internal Medicine,New Orleans,la
+P00887,Davis Medical Group,Nephrology,Baton Rouge,la
+P00888,Smith Medical Group,Nephrology,Shreveport,la
+P00889,Davis Medical Group,Nephrology,Shreveport,LA
+P00890,Davis Medical Group,Primary Care,Baton Rouge,Louisiana
+P00891,Miller Medical Group,Primary Care,Baton Rouge,la
+P00892,Williams Medical Group,Emergency Medicine,Baton Rouge,LA
+P00893,Smith Medical Group,Nephrology,Lafayette,Louisiana
+P00894,Lopez Medical Group,Cardiology,Lafayette,Louisiana
+P00895,Miller Medical Group,Internal Medicine,Lafayette,Louisiana
+P00896,Johnson Medical Group,Cardiology,Lake Charles,la
+P00897,Rodriguez Medical Group,Primary Care,Baton Rouge,Louisiana
+P00898,Davis Medical Group,Emergency Medicine,Lake Charles,la
+P00899,Johnson Medical Group,Nephrology,Lake Charles,LA
+P00900,Smith Medical Group,Emergency Medicine,Lake Charles,la
+P00901,Brown Medical Group,Cardiology,Shreveport,la
+P00902,Garcia Medical Group,Primary Care,Shreveport,la
+P00903,Rodriguez Medical Group,Primary Care,New Orleans,la
+P00904,Jones Medical Group,Endocrinology,Lake Charles,la
+P00905,Jones Medical Group,Nephrology,Lake Charles,LA
+P00906,Miller Medical Group,Nephrology,Lafayette,la
+P00907,Gonzalez Medical Group,Endocrinology,Lake Charles,la
+P00908,Johnson Medical Group,Internal Medicine,Lake Charles,LA
+P00909,Lopez Medical Group,Emergency Medicine,Lafayette,Louisiana
+P00910,Brown Medical Group,Endocrinology,New Orleans,Louisiana
+P00911,Martinez Medical Group,Family Medicine,New Orleans,LA
+P00912,Garcia Medical Group,Cardiology,Lafayette,Louisiana
+P00913,Lopez Medical Group,Emergency Medicine,Lake Charles,LA
+P00914,Davis Medical Group,Nephrology,Shreveport,Louisiana
+P00915,Davis Medical Group,Primary Care,Lafayette,la
+P00916,Rodriguez Medical Group,Internal Medicine,Lake Charles,Louisiana
+P00917,Miller Medical Group,Primary Care,Shreveport,LA
+P00918,Smith Medical Group,Primary Care,Lafayette,LA
+P00919,Johnson Medical Group,Endocrinology,Shreveport,Louisiana
+P00920,Davis Medical Group,Primary Care,Lake Charles,la
+P00921,Hernandez Medical Group,Internal Medicine,Shreveport,Louisiana
+P00922,Lopez Medical Group,Internal Medicine,Lake Charles,LA
+P00923,Martinez Medical Group,Emergency Medicine,Lafayette,LA
+P00924,Martinez Medical Group,Primary Care,Shreveport,la
+P00925,Williams Medical Group,Emergency Medicine,New Orleans,Louisiana
+P00926,Jones Medical Group,Primary Care,Baton Rouge,Louisiana
+P00927,Hernandez Medical Group,Primary Care,Shreveport,LA
+P00928,Hernandez Medical Group,Cardiology,Baton Rouge,Louisiana
+P00929,Gonzalez Medical Group,Cardiology,Shreveport,Louisiana
+P00930,Miller Medical Group,Family Medicine,Shreveport,LA
+P00931,Garcia Medical Group,Emergency Medicine,Baton Rouge,la
+P00932,Rodriguez Medical Group,Internal Medicine,Baton Rouge,LA
+P00933,Garcia Medical Group,Family Medicine,New Orleans,Louisiana
+P00934,Williams Medical Group,Emergency Medicine,Lake Charles,Louisiana
+P00935,Gonzalez Medical Group,Emergency Medicine,Lake Charles,la
+P00936,Brown Medical Group,Nephrology,Lake Charles,la
+P00937,Smith Medical Group,Nephrology,Baton Rouge,la
+P00938,Johnson Medical Group,Internal Medicine,Baton Rouge,LA
+P00939,Jones Medical Group,Emergency Medicine,Baton Rouge,la
+P00940,Hernandez Medical Group,Emergency Medicine,Baton Rouge,la
+P00941,Davis Medical Group,Endocrinology,Lafayette,la
+P00942,Martinez Medical Group,Family Medicine,Shreveport,LA
+P00943,Smith Medical Group,Internal Medicine,Baton Rouge,la
+P00944,Brown Medical Group,Emergency Medicine,Lafayette,LA
+P00945,Johnson Medical Group,Family Medicine,Lake Charles,LA
+P00946,Garcia Medical Group,Primary Care,Lake Charles,la
+P00947,Jones Medical Group,Nephrology,Baton Rouge,la
+P00948,Rodriguez Medical Group,Cardiology,New Orleans,LA
+P00949,Williams Medical Group,Endocrinology,Baton Rouge,LA
+P00950,Gonzalez Medical Group,Nephrology,New Orleans,Louisiana
+P00951,Jones Medical Group,Emergency Medicine,Shreveport,LA
+P00952,Garcia Medical Group,Nephrology,New Orleans,LA
+P00953,Brown Medical Group,Emergency Medicine,Shreveport,LA
+P00954,Garcia Medical Group,Family Medicine,Baton Rouge,LA
+P00955,Davis Medical Group,Cardiology,Lake Charles,Louisiana
+P00956,Brown Medical Group,Internal Medicine,Lafayette,la
+P00957,Rodriguez Medical Group,Endocrinology,Baton Rouge,LA
+P00958,Williams Medical Group,Primary Care,Lafayette,Louisiana
+P00959,Gonzalez Medical Group,Primary Care,New Orleans,LA
+P00960,Miller Medical Group,Emergency Medicine,Lafayette,LA
+P00961,Davis Medical Group,Family Medicine,Shreveport,Louisiana
+P00962,Davis Medical Group,Internal Medicine,New Orleans,Louisiana
+P00963,Gonzalez Medical Group,Nephrology,New Orleans,Louisiana
+P00964,Davis Medical Group,Primary Care,Lake Charles,la
+P00965,Martinez Medical Group,Emergency Medicine,Shreveport,LA
+P00966,Garcia Medical Group,Primary Care,Baton Rouge,la
+P00967,Martinez Medical Group,Nephrology,Lafayette,la
+P00968,Garcia Medical Group,Emergency Medicine,Lake Charles,la
+P00969,Gonzalez Medical Group,Family Medicine,Lake Charles,la
+P00970,Martinez Medical Group,Family Medicine,Lafayette,Louisiana
+P00971,Brown Medical Group,Primary Care,New Orleans,LA
+P00972,Johnson Medical Group,Primary Care,Lake Charles,LA
+P00973,Gonzalez Medical Group,Nephrology,Lake Charles,LA
+P00974,Johnson Medical Group,Endocrinology,New Orleans,la
+P00975,Johnson Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00976,Lopez Medical Group,Endocrinology,Shreveport,la
+P00977,Lopez Medical Group,Primary Care,Shreveport,la
+P00978,Garcia Medical Group,Internal Medicine,Lake Charles,LA
+P00979,Rodriguez Medical Group,Emergency Medicine,Lake Charles,LA
+P00980,Gonzalez Medical Group,Nephrology,Shreveport,LA
+P00981,Miller Medical Group,Primary Care,Shreveport,LA
+P00982,Williams Medical Group,Cardiology,New Orleans,Louisiana
+P00983,Smith Medical Group,Nephrology,New Orleans,Louisiana
+P00984,Jones Medical Group,Internal Medicine,Lafayette,Louisiana
+P00985,Johnson Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00986,Williams Medical Group,Emergency Medicine,Shreveport,la
+P00987,Smith Medical Group,Emergency Medicine,Lake Charles,LA
+P00988,Jones Medical Group,Family Medicine,New Orleans,la
+P00989,Brown Medical Group,Cardiology,Baton Rouge,LA
+P00990,Rodriguez Medical Group,Internal Medicine,New Orleans,Louisiana
+P00991,Garcia Medical Group,Internal Medicine,Lake Charles,LA
+P00992,Smith Medical Group,Internal Medicine,Shreveport,la
+P00993,Johnson Medical Group,Nephrology,New Orleans,la
+P00994,Miller Medical Group,Family Medicine,Lafayette,la
+P00995,Davis Medical Group,Internal Medicine,Baton Rouge,LA
+P00996,Lopez Medical Group,Internal Medicine,Baton Rouge,Louisiana
+P00997,Miller Medical Group,Emergency Medicine,Lake Charles,LA
+P00998,Williams Medical Group,Primary Care,Baton Rouge,la
+P00999,Lopez Medical Group,Endocrinology,Lake Charles,Louisiana
+P01000,Hernandez Medical Group,Nephrology,New Orleans,la
+P00522,Smith Medical Group,Nephrology,Baton Rouge,LA
+P00738,Johnson Medical Group,Family Medicine,Lafayette,LA
+P00741,Rodriguez Medical Group,Endocrinology,Lafayette,Louisiana
+P00661,Brown Medical Group,Endocrinology,Lafayette,la
+P00412,Lopez Medical Group,Endocrinology,Shreveport,Louisiana
+P00679,Jones Medical Group,Endocrinology,Shreveport,la
+P00627,Davis Medical Group,Family Medicine,Lafayette,LA
+P00514,Hernandez Medical Group,Internal Medicine,Shreveport,LA
+P00860,Williams Medical Group,Internal Medicine,Shreveport,la
+P00137,Brown Medical Group,Emergency Medicine,Shreveport,Louisiana
+P00812,Hernandez Medical Group,Nephrology,New Orleans,Louisiana
+P00077,Hernandez Medical Group,Family Medicine,Lake Charles,Louisiana
+P00637,Garcia Medical Group,Internal Medicine,Lafayette,Louisiana
+P00974,Johnson Medical Group,Endocrinology,New Orleans,la
+P00939,Jones Medical Group,Emergency Medicine,Baton Rouge,la
+P00900,Smith Medical Group,Emergency Medicine,Lake Charles,la
+P00281,Johnson Medical Group,Family Medicine,New Orleans,Louisiana
+P00884,Hernandez Medical Group,Family Medicine,New Orleans,Louisiana
+P00762,Brown Medical Group,Nephrology,Lafayette,la
+P00320,Gonzalez Medical Group,Primary Care,Shreveport,Louisiana
+P00550,Gonzalez Medical Group,Family Medicine,New Orleans,la
+P00175,Gonzalez Medical Group,Endocrinology,Shreveport,la
+P00372,Martinez Medical Group,Emergency Medicine,New Orleans,la
+P00528,Miller Medical Group,Family Medicine,Baton Rouge,la
+P00211,Hernandez Medical Group,Family Medicine,Baton Rouge,Louisiana
